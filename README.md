@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, my name is Daniel!
 
-<!--
-**NostGore/NostGore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :star: About me:
+▸ Systems and computer engineer
+▸ Cyberactivist and Developer
+▸ Data analysis specialist
+▸ Knowledge in (OSINT/SOCMINT)
+▸ Software Development
 
-Here are some ideas to get you started:
+## :hammer_and_wrench: All the languages ​​I currently speak fluently:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
