@@ -1,38 +1,122 @@
-<div id="badges"align="center">
-    <a href="https://www.tiktok.com/@devbujito" target="_blank"rel=" noopener noreferrer">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok Badge"/>
-  </a>
+<div align="center">
 
+# Daniel
 
-# Hello, my name is Daniel!
+**Software Developer • OSINT Researcher • Cyberactivist**
+
+Building modern software, automation tools, APIs and scalable applications.
+
+<a href="https://www.tiktok.com/@devbujito">
+<img src="https://img.shields.io/badge/TikTok-@devbujito-black?style=flat-square&logo=tiktok">
+</a>
+
+<img src="https://img.shields.io/badge/Location-Peru-555555?style=flat-square">
+
+<img src="https://img.shields.io/badge/Age-20-555555?style=flat-square">
 
 </div>
 
-## :star: About me:
-▸ Systems and computer engineer <br>
-▸ Cyberactivist and Developer <br>
-▸ Data analysis specialist <br>
-▸ Knowledge in (OSINT/SOCMINT) <br>
-▸ Software Development <br>
+---
 
-## :hammer_and_wrench: All the languages ​​I currently speak fluently:
+## Profile
 
-<img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png" width="30"> <img src="https://static.vecteezy.com/system/resources/thumbnails/012/697/298/small/3d-javascript-logo-design-free-png.png" width="30"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-java-3d-icon-png-download-7578017.png" width="30"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-c-language-logo-3d-icon-png-download-5453029.png" width="30"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-c-sharp-3d-icon-png-download-7577997.png" width="30"> <img src="https://static.vecteezy.com/system/resources/previews/012/697/299/non_2x/stylized-3d-html-logo-design-free-png.png" width="30"> 
+Software developer specialized in designing and building modern software solutions for desktop, web and mobile platforms.
 
-## :computer: Operating Systems:
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
-![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
-![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
+Areas of expertise include software architecture, REST APIs, automation, web scraping, OSINT research and data analysis.
 
-## :computer: Search engines used as Analyst Osint:
+I focus on writing maintainable, scalable and high-performance applications while continuously learning new technologies.
 
-![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white)
-![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
-![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)
+---
+
+## Specializations
+
+- Software Development
+- Web Development
+- Desktop Applications
+- Mobile Applications
+- REST API Development
+- Automation
+- Web Scraping
+- Data Analysis
+- OSINT
+- SOCMINT
+
+---
+
+## Languages
+
+### Proficient
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,java,kotlin,react"/>
+</p>
+
+Python • JavaScript • HTML • Java • Kotlin • React
+
+### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,go"/>
+</p>
+
+C • C++ • C# • Rust • Go
+
+---
+
+## Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,react,nodejs,express,html,css,mysql,sqlite,git,github,linux,ubuntu,vscode,androidstudio"/>
+
+</p>
+
+---
+
+## Operating Systems
+
+Windows
+
+Ubuntu
+
+Linux
+
+---
+
+## OSINT Search Engines
+
+- Google
+- Bing
+- DuckDuckGo
+- Baidu
+- Yahoo!
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=github_dark&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NostGore&theme=github-dark&hide_border=true">
+
+</div>
+
+---
+
+<div align="center">
+
+Software Engineer from Peru
+
+</div>
