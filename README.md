@@ -1,6 +1,6 @@
 <div align="center">
 
-# Daniel
+# Hi, I am Daniel
 
 **Software Developer • OSINT Researcher • Cyberactivist**
 
